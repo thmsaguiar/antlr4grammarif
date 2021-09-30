@@ -4,7 +4,7 @@
 ## ANTLR e GRAMMAR
 O Another Tool for Language Recognition, mais conhecido como ANTLR, é uma ferramenta utilizada para gerar compiladores. Ele é contruído em JAVA. A gramática valida as expressões regulares criadas para a linguagem de programação. Para compilar a gramática na sua máquina é necessário ter o java instalado e configurado corretamente assim como a instalação do antlr.
 ### IF
-A estrutura de um if em linguem **JAVA** é dada por:
+A estrutura de um if em linguagem **JAVA** é dada por:
 ```
 if(<condicao>) {
   <instrução ou bloco de instruções> 
