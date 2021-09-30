@@ -21,7 +21,7 @@ Com o prompt de comando aberto você vai localizar a pasta que contem seu arquiv
 ```
 cd [DIRETORIO_DA_PASTA]
 ```
-Após a execução do comando acima precisamos compilar a gramática, e isso é feito com o `antlr` :
+Após a execução do comando acima precisamos compilar a gramática, e isso é feito com o `antlr4` :
 ```
 antlr4 [NOME_DO_ARQUIVO].g4
 ```
