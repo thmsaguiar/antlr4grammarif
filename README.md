@@ -33,7 +33,7 @@ Agora para executar e verificar se está coletando os tokens corretamente utiliz
 ```
 grun [NOME_DO_ARQUIVO] [PRIMEIRO_ATRIBUTO] -tokens
 ```
-Quando o comando iniciar você pode escrever os testes que serão feitos com base na gramática para verificar se todos os tokens estão sendo reconhecidos. Para um novo teste é necessário ir para a linha de baixo com o **ENTER**. E finalize apertando **CTRL+Z** e **ENTER**. Ele gerará a lista de tokens atribuidos a o que escreveu. o token **EOF** sinaliza o final do arquivo.
+Quando o comando iniciar você pode escrever os testes que serão feitos com base na gramática para verificar se todos os tokens estão sendo reconhecidos. Para um novo teste é necessário ir para a linha de baixo com o **ENTER**. E finalize apertando **CTRL+Z** e **ENTER**. Ele gerará a lista de tokens atribuidos a o que escreveu. O **EOF** sinaliza o final do arquivo.
 
 Prontinho!! Espero que tenha ajudado você nos seus estudos!!
 
