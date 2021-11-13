@@ -42,3 +42,8 @@ Prontinho!! Espero que tenha ajudado você nos seus estudos!!
   [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thmsaguiar)
   
 </div>
+
+## Criador
+
+| [<img src="https://github.com/thmsaguiar.png?size=115" width=115><br><sub>@thmsaguiar</sub>](https://github.com/thmsaguiar) |
+| :---: |
